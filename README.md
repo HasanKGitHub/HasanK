@@ -1,4 +1,3 @@
 - My name is Hasan.
 - I'm 15 years old.
 - I born in İstanbul, Turkey
-- I'm learning discord.js

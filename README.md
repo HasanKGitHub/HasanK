@@ -4,7 +4,7 @@
   <li>İstanbul, Türkiye'de yaşıyorum.</li>
   <li>JavaScript, HTML ve CSS öğrenme aşamasındayım. En büyük isteklerimden biri JavaScript, HTML ve CSS öğrenmektir.</li>
   <li>Boş vakitlerimde kendimi JavaScript, HTML ve CSS üzerinde elimden geldiği kadar geliştirmeye çalışırım.</li>
-  <li>Futbol oynamayı ve izlemeyi seviyorum ve <a href="https://www.google.com/search?q=galatasaray&oq=ga&aqs=chrome.0.69i59j69i57j0i131i395i433l2j69i60l3j69i61.476j1j7&sourceid=chrome&ie=UTF-8"Galatasaray</a>'ı destekliyorum.
+  <li>Futbol oynamayı ve izlemeyi seviyorum ve <a href="https://www.google.com/search?q=galatasaray&oq=ga&aqs=chrome.0.69i59j69i57j0i131i395i433l2j69i60l3j69i61.476j1j7&sourceid=chrome&ie=UTF-8"</a>Galatasaray'ı destekliyorum.
 </ul>
 <hr>
 <h3>Hobilerim</h3>

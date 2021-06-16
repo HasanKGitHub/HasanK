@@ -1,4 +1,4 @@
-<h1>Hasan Eren | TR</h1>
+<h1>❯ Hakkımda | TR</h1>
 <ul>
   <li>Adım Hasan Eren. 15 yaşındayım.</li>
   <li>İstanbul, Türkiye'de yaşıyorum.</li>
@@ -12,3 +12,4 @@
   <li>Yazılım</li>
   <li>Bilgisayarda vakit geçirmek</li>
   <li>Bilgisayar oyunları oynamak</li>
+</ul>

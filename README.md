@@ -6,3 +6,4 @@
   <li>Boş vakitlerimde kendimi JavaScript, HTML ve CSS üzerinde elimden geldiği kadar geliştirmeye çalışırım.</li>
 </ul>
 <hr>
+<h3>Hobilerim</h3>

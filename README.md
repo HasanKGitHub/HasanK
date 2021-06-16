@@ -1,3 +1,3 @@
 - My name is Hasan.
 - I'm 15 years old.
-- I born in İstanbul, Turkey
+- I was born in İstanbul, Turkey

@@ -7,3 +7,8 @@
 </ul>
 <hr>
 <h3>Hobilerim</h3>
+<ul>
+  <li>Futbol oynamak</li>
+  <li>Yazılım</li>
+  <li>Bilgisayarda vakit geçirmek</li>
+  <li>Bilgisayar oyunları oynamak</li>

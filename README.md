@@ -5,3 +5,4 @@
   <li>JavaScript, HTML ve CSS öğrenme aşamasındayım. En büyük isteklerimden biri JavaScript, HTML ve CSS öğrenmektir.</li>
   <li>Boş vakitlerimde kendimi JavaScript, HTML ve CSS üzerinde elimden geldiği kadar geliştirmeye çalışırım.</li>
 </ul>
+<hr>

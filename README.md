@@ -30,7 +30,9 @@
   <li>Playing video games</li>
 </ul>
 <hr>
+<ul>
 <li>
   Coding Experiences
   </li>
+  <li>Started discord.js in 13.05.2021</li>
 </ul>

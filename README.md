@@ -32,7 +32,7 @@
 <hr>
 <ul>
 <li>
-  <strong>Coding Experiences</strong>
+  <i><strong>Coding Experiences</i></strong>
   </li>
   <li>Started discord.js in 13.05.2021</li>
 </ul>

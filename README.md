@@ -13,3 +13,19 @@
   <li>Bilgisayarda vakit geçirmek</li>
   <li>Bilgisayar oyunları oynamak</li>
 </ul>
+<hr>
+<h1>❯About Me | EN</h1>
+<ul>
+  <li>My name is Hasan Eren. I am 15 years old.</li>
+  <li>I am in a learning process about JavaScript, HTML and CSS. My biggest goals are learning JavaScript, HTML and CSS.</li>
+  <li>I generally spend my time to learn JavaScript, HTML and CSS as I can possible.</li>
+  <li>I love playing football and watching football matches.</li>
+</ul>
+<hr>
+<h3>My Hobbies</h3>
+<ul>
+  <li>Playing football</li>
+  <li>Coding</li>
+  <li>Spending time at the computer</li>
+  <li>Playing video games</li>
+</ul>

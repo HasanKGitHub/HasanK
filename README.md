@@ -14,7 +14,7 @@
   <li>Bilgisayar oyunları oynamak</li>
 </ul>
 <hr>
-<h1>❯About Me | EN</h1>
+<h1>❯ About Me | EN</h1>
 <ul>
   <li>My name is Hasan Eren. I am 15 years old.</li>
   <li>I am in a learning process about JavaScript, HTML and CSS. My biggest goals are learning JavaScript, HTML and CSS.</li>

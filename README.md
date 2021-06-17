@@ -37,5 +37,5 @@
   <li>Started discord.js in <b>13.05.2021</b></li>
   <li>Started HTML in <b>02.06.2021</b></li>
   <li>Started CSS in <b>02.06.2021</b></li>
-  <li>Started JavaScript in <b>25.05.2021/b></li>
+  <li>Started JavaScript in <b>25.05.2021</b></li>
 </ul>

@@ -10,8 +10,3 @@
  </p>
  <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanKGitHub&count_private=true&theme=radical" alt="HasanKGitHub" />
 <hr>
-# Bildiğim Diller:
-
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

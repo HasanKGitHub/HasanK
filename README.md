@@ -8,6 +8,6 @@
 <p>Selam! Adım Hasan Eren. 15 yaşındayım. Yazılıma başlayalı yaklaşık 2 ay oldu. Spike adlı Discord botunun geliştiricisiyim. Ayrıca müzik dinlemeyi ve oyun oynamayı severim.
  Kendimi geliştirmeye her zaman açığım! İleride iyi yerlere gelebilmek için çabalıyorum. Son olarak, gününüz güzel geçsin!
  </p>
- ![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+ ![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=HasanKGitHub&color=green)
  <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanKGitHub&count_private=true&theme=radical" alt="HasanKGitHub" />
 <hr>

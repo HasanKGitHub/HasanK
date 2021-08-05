@@ -8,3 +8,5 @@
  Kendimi geliştirmeye her zaman açığım! İleride iyi yerlere gelebilmek için çabalıyorum. Son olarak, gününüz güzel geçsin!
  </p>
 <hr>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)

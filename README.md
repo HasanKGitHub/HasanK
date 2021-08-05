@@ -4,7 +4,7 @@
    <a href="https://www.instagram.com/hasank.js" target"_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <hr>
-<p>Selam! Adım Hasan Eren. 15 yaşındayım. Yazılıma başlayalı yaklaşık 5 ay oldu. Spike adlı Discord botunun geliştiricisiyim. Ayrıca müzik dinlemeyi ve oyun oynamayı severim.
+<p style=font-family: "Arial">Selam! Adım Hasan Eren. 15 yaşındayım. Yazılıma başlayalı yaklaşık 5 ay oldu. Spike adlı Discord botunun geliştiricisiyim. Ayrıca müzik dinlemeyi ve oyun oynamayı severim.
  Kendimi geliştirmeye her zaman açığım! İleride iyi yerlere gelebilmek için çabalıyorum. Son olarak, gününüz güzel geçsin!
  </p>
 <hr>

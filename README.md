@@ -8,3 +8,4 @@
  Kendimi geliştirmeye her zaman açığım! İleride iyi yerlere gelebilmek için çabalıyorum. Son olarak, gününüz güzel geçsin!
  </p>
 <hr>
+! [React]
